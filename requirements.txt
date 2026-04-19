@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pandas
+groq
+langchain>=0.1.0
+langchain-core>=0.1.7
+langchain-groq
+python-dotenv
+tabulate
+pyarrow
+
