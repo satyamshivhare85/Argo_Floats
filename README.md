@@ -10,7 +10,7 @@ This inspired me to build **ArgoFloats AI** — a system designed to make ocean 
 👉 *The goal was simple:*
 **Enable anyone to explore ocean data using just one prompt and one click.**
 
-🔗 **Live Demo:** https://sih-1-z9ln.vercel.app/
+🔗 **UI LINK:** https://sih-1-z9ln.vercel.app/
 
 ---
 
