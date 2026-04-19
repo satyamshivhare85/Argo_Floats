@@ -22,6 +22,18 @@ ArgoFloats AI is an end-to-end platform that combines **data analysis, AI, and v
   *“Show salinity near the equator”*
 * The system processes the request, queries the data, and returns **visual insights instantly**
 
+🌊 ArgoFloats AI – Intelligent Ocean Data Analytics Platform
+
+- Built an end-to-end data analytics system to process large-scale ARGO ocean datasets (temperature, salinity, depth) from raw formats into structured databases
+- Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to identify key oceanographic trends and patterns
+- Developed an AI-powered query interface using Retrieval-Augmented Generation (RAG) to convert natural language prompts into SQL queries
+- Integrated vector databases (FAISS/Chroma) with Large Language Models (LLMs) for context-aware data retrieval and semantic search
+- Designed interactive dashboards and visualizations (geospatial maps, heatmaps, trend analysis) for intuitive data exploration
+- Implemented efficient data pipelines and storage solutions (PostgreSQL, Parquet) to optimize query performance
+- Enabled non-technical users to access complex datasets through a prompt-based interface, improving data accessibility and usability
+
+Tech Stack: Python, Pandas, NumPy, SQL, PostgreSQL, FastAPI, LangChain, FAISS/ChromaDB, LLMs (LLaMA/GPT), Matplotlib, Seaborn, Plotly, React.js
+
 ---
 
 ## 🧠 Technical Architecture
